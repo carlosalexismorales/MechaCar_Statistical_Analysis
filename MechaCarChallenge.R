@@ -28,3 +28,9 @@ SD = sd(Suspension_Coil_df$PSI)
 
 #Total_Summary Data Frame
 total_Summary <- data.frame(Mean,Median,Variance,SD)
+
+#summary by lot
+lot_summary <- Suspension_Coil_df %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),Median = median(PSI),Variance = var(PSI),SD = sd(PSI), .groups = 'keep') 
+
+
+
