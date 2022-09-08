@@ -112,6 +112,7 @@ In order to improve the MPG of the MechaCar, engineers and designers should dire
 The statistical study that the company should explore using is an ANOVA test. An ANOVA test illustrates any statistical differences
 between the distribution means from multiple samples. In this case, we can compare the MechaCar in different categories that would be pivotal for customers when they are deciding which car they want based on performance. For example, we can use the cost, city or highway fuel efficiency, horse power, maintenance cost, and safety rating as metrics. We can compare the averages of these categories to the competition to see how they stack up against one another. We can use the ANOVA test and see if there is signifcant difference between the metrics of the MechaCar and its competitors, thus letting us know, which areas should be improved and focused on. 
 
+We can select a signifcance level, for example, p = 0.05, and use that to base our findings. If the p value is greater than 0.05, then we would know that the performance for the metrics we set out are very similar to the competition. If the p value is less than 0.05, then we would know that the MechaCar is performing significantly different. If is is different, then we can determine if that difference is a worse or better performance based on the averages we get from the metrics. 
 
 
 
