@@ -87,6 +87,7 @@ Since Lot 3 is the only one below the standard significant value (p = 0.05), the
 
 
 
+<img width="704" alt="Screen Shot 2022-09-07 at 6 03 58 PM" src="https://user-images.githubusercontent.com/102444078/189010922-3fc4fc04-35a7-4c0b-bffa-5be6ae455f65.png">
 
 
 
