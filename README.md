@@ -98,14 +98,11 @@ Since Lot 3 is the only one below the standard significant value (p = 0.05), the
 
 
 
-
-
-
-
-
-
-
 ## Summary
+
+
+In order to improve the MPG of the MechaCar, engineers and designers should direct their focus on car weight, spoiler angle, and AWD capabiltiy. These were the coefficients that had the most impact on MPG. Lot 3 should also be ignored and not used since it tested out the lowest out of all lots in. Lot 3 had the lowest PSI average in regards to suspension coils. 
+
 
 
 
