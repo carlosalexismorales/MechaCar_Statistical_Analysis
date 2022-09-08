@@ -65,13 +65,40 @@ The current manufacturing data does meet the design specification for lots 1 & 2
 
 
 
-
-
-
-
-
-
 ## T-Tests on Suspension Coils
+
+
+Interpretations and Findings: 
+
+In the image below, we compared the P-values from single T-Test on PSI values to the standard of 1500 PSI for suspension coils. 
+
+All PSI equaled to 0.06028 while Lot 1 PSI equaled 1, Lot 2 PSI equaled 0.6072, and Lot 3 PSI equaled 0.04168. 
+
+Since Lot 3 is the only one below the standard significant value (p = 0.05), then we can determine that it is the only one that is significantly different. All other lots, lots 1 & 2, are performing up to the standard 1500 PSI. 
+
+
+
+
+
+<img width="704" alt="Screen Shot 2022-09-07 at 6 02 21 PM" src="https://user-images.githubusercontent.com/102444078/189010782-54867098-e42e-4700-b531-a3f1e7708a65.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
