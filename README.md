@@ -40,6 +40,37 @@ Because the R squared value is 71.49%, this indicates that using the linear mode
 ## Summary Statistics on Suspension Coils
 
 
+1. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually?
+
+The current manufacturing data does meet the design specification for lots 1 & 2, however, the variance of the suspension coils exceeds 100 pounds per square inch in lot 3. In the image below, we see that lot 3 exceeds 100 pounds by about 70 pounds. In the total summary dataframe, we see that it does not exceed 100 pounds - it is around 60 pounds respectively. 
+
+
+
+
+<img width="705" alt="Screen Shot 2022-09-07 at 5 19 40 PM" src="https://user-images.githubusercontent.com/102444078/189006865-24b97b37-8ac9-4744-b8a6-90958a4e6a80.png">
+
+
+
+
+
+
+<img width="703" alt="Screen Shot 2022-09-07 at 5 20 00 PM" src="https://user-images.githubusercontent.com/102444078/189006879-0a736da8-6791-4fca-a4c9-5bc54800eea8.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## T-Tests on Suspension Coils
 
 
